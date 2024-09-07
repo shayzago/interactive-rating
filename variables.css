@@ -1,0 +1,9 @@
+:root {
+    --primary-color: hsl(25, 97%, 53%);
+    --white: #FFF;
+    --light-grey: #969FAD;
+    --medium-grey: #7C8798;
+    --dark-grey: #262E38;
+    --very-dark-grey: #131518;
+    --black-gradient: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+}
